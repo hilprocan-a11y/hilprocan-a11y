@@ -25,7 +25,6 @@ understanding from automation.
 | 02b | Load balancing and failover | [azure-az104-lab02b-load-balancer](https://github.com/hilprocan-a11y/azure-az104-lab02b-load-balancer) |
 | 03 | Microsoft Entra ID and identity management | [azure-az104-lab03-identity](https://github.com/hilprocan-a11y/azure-az104-lab03-identity) |
 | 04 | Virtual machines, VMSS, App Service, containers | [azure-az104-lab04-compute](https://github.com/hilprocan-a11y/azure-az104-lab04-compute) |
-
 | 05 | Azure Storage and data protection | [azure-az104-lab05-storage](https://github.com/hilprocan-a11y/azure-az104-lab05-storage) |
 | 06 | Peering, routing, DNS, endpoints, Bastion and Network Watcher | [azure-az104-lab06-advanced-networking](https://github.com/hilprocan-a11y/azure-az104-lab06-advanced-networking) |
 
