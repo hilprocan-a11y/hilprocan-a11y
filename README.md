@@ -26,6 +26,9 @@ understanding from automation.
 | 03 | Microsoft Entra ID and identity management | [azure-az104-lab03-identity](https://github.com/hilprocan-a11y/azure-az104-lab03-identity) |
 | 04 | Virtual machines, VMSS, App Service, containers | [azure-az104-lab04-compute](https://github.com/hilprocan-a11y/azure-az104-lab04-compute) |
 
+| 05 | Azure Storage and data protection | [azure-az104-lab05-storage](https://github.com/hilprocan-a11y/azure-az104-lab05-storage) |
+| 06 | Peering, routing, DNS, endpoints, Bastion and Network Watcher | [azure-az104-lab06-advanced-networking](https://github.com/hilprocan-a11y/azure-az104-lab06-advanced-networking) |
+
 ## Tools
 
 Azure CLI · Bicep · Azure PowerShell · Git · VS Code
